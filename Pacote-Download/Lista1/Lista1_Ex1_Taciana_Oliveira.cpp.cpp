@@ -4,7 +4,7 @@
 #include <locale.h>
 using namespace std;
 
-//Programa para imprimirna tela o seu nome e idade.
+//Programa para imprimir na tela o seu nome e idade.
 
 
 int main()
